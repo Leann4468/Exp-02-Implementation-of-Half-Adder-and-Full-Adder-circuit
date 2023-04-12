@@ -72,20 +72,20 @@ endmodule
 ```
 
 # Output:
-
+## RTL REALIZATION
 
 ## Half Adder
 ![Screenshot (56)](https://user-images.githubusercontent.com/119218812/229302815-e30936b9-c351-4e02-82e4-b91bd0b13994.png)
 ## Full Adder
 ![Screenshot (54)](https://user-images.githubusercontent.com/119218812/229302832-6e4030af-ea23-4d6e-a453-59164ff731d8.png)
 
-## RTL REALIZATION
+## TIMING DIAGRAM
 ## Half Adder
 ![Screenshot (57)](https://user-images.githubusercontent.com/119218812/229302747-b9939b2e-7658-4cc4-9d63-2b3ff67d0ea3.png)
 ## Full Adder
 ![Screenshot (55)](https://user-images.githubusercontent.com/119218812/229302777-473f33e3-5a94-403c-a50f-c464de365bf5.png)
 
-## Logic Symbol 
+## LOGIC SYMBOL
 ## Half Adder
 ![image](https://user-images.githubusercontent.com/119218812/229303311-4cc97f7e-268f-4c02-b242-5540955099dc.png)
 
