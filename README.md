@@ -85,7 +85,7 @@ endmodule
 ## Full Adder
 ![Screenshot (55)](https://user-images.githubusercontent.com/119218812/229302777-473f33e3-5a94-403c-a50f-c464de365bf5.png)
 
-## Logic Symbol & Truth Table
+## Logic Symbol 
 ## Half Adder
 ![image](https://user-images.githubusercontent.com/119218812/229303311-4cc97f7e-268f-4c02-b242-5540955099dc.png)
 
