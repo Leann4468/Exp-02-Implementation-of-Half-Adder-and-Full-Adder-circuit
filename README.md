@@ -72,7 +72,7 @@ endmodule
 ```
 
 # Output:
-# Logic Symbol & Truth Table
+
 
 ## Half Adder
 ![Screenshot (56)](https://user-images.githubusercontent.com/119218812/229302815-e30936b9-c351-4e02-82e4-b91bd0b13994.png)
@@ -85,7 +85,7 @@ endmodule
 ## Full Adder
 ![Screenshot (55)](https://user-images.githubusercontent.com/119218812/229302777-473f33e3-5a94-403c-a50f-c464de365bf5.png)
 
-## TIMING DIAGRAM
+## Logic Symbol & Truth Table
 ## Half Adder
 ![image](https://user-images.githubusercontent.com/119218812/229303311-4cc97f7e-268f-4c02-b242-5540955099dc.png)
 
