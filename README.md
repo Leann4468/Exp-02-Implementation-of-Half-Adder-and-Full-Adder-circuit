@@ -72,6 +72,7 @@ endmodule
 ```
 
 # Output:
+# Logic Symbol & Truth Table
 
 ## Half Adder
 ![Screenshot (56)](https://user-images.githubusercontent.com/119218812/229302815-e30936b9-c351-4e02-82e4-b91bd0b13994.png)
